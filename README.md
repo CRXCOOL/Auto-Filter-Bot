@@ -28,7 +28,7 @@
 - [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
 
 ## Demo Bot
-* [Try this bot](https://t.me/HA_Auto_Filter_Test_Bot)
+* [Try this bot](https://t.me/CX FILTER BOT_Test_Bot)
 * Here bot you can test features and more before deploy your own bot
 
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
